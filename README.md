@@ -3,7 +3,7 @@
  <abc>
   <br>Hola <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Marco 🙂<br>
-  <br> I'm currently a Software Engineer, working as a Fullstack Javascript Dev:computer:<br>
+  <br> I'm currently a Software Engineer, working as a Fullstack Dev:computer:<br>
   <br>
  </abc>
 </h2> 
